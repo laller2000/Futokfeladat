@@ -1,0 +1,12 @@
+C:\Users\lalle\source\repos\Futoverseny\Futoverseny\bin\Debug\futok.txt
+C:\Users\lalle\source\repos\Futoverseny\Futoverseny\bin\Debug\Futoverseny.exe.config
+C:\Users\lalle\source\repos\Futoverseny\Futoverseny\bin\Debug\Futoverseny.exe
+C:\Users\lalle\source\repos\Futoverseny\Futoverseny\bin\Debug\Futoverseny.pdb
+C:\Users\lalle\source\repos\Futoverseny\Futoverseny\obj\Debug\Futoverseny.csproj.AssemblyReference.cache
+C:\Users\lalle\source\repos\Futoverseny\Futoverseny\obj\Debug\Futoverseny.Form1.resources
+C:\Users\lalle\source\repos\Futoverseny\Futoverseny\obj\Debug\Futoverseny.Form_Eredmeny.resources
+C:\Users\lalle\source\repos\Futoverseny\Futoverseny\obj\Debug\Futoverseny.Properties.Resources.resources
+C:\Users\lalle\source\repos\Futoverseny\Futoverseny\obj\Debug\Futoverseny.csproj.GenerateResource.cache
+C:\Users\lalle\source\repos\Futoverseny\Futoverseny\obj\Debug\Futoverseny.csproj.CoreCompileInputs.cache
+C:\Users\lalle\source\repos\Futoverseny\Futoverseny\obj\Debug\Futoverseny.exe
+C:\Users\lalle\source\repos\Futoverseny\Futoverseny\obj\Debug\Futoverseny.pdb
